@@ -1,0 +1,6 @@
+{
+  "name": "Elite Interior - Company Profile & Authority Portal",
+  "description": "Official company authority and local SEO portal for Elite Interior, Ahmedabad. Explore verified turnkey interior services, founder profiles, portfolio, and cost guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
